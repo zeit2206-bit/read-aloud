@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#3448C5" android:pathData="M0,0h108v108h-108z" />
+    <!-- open book -->
+    <path android:fillColor="#FFFFFF" android:pathData="M24,34c10,-4 20,-4 28,2v42c-8,-6 -18,-6 -28,-2z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M84,34c-10,-4 -20,-4 -28,2v42c8,-6 18,-6 28,-2z" />
+    <!-- highlighted word -->
+    <path android:fillColor="#E4572E" android:pathData="M60,46h16v6h-16z" />
+</vector>
